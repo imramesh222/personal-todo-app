@@ -158,7 +158,7 @@ For questions or contributions, open an issue or pull request.
 You can add screenshots of request/response testing in Swagger UI to your README for better documentation.
 
 Example:
-```markdown
+markdown
 ## Example: Logging in via Swagger UI
 
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.19.20.png)
@@ -179,8 +179,5 @@ Example:
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.21.png)
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.33.png)
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.51.png)
-
-```
-
 
 ---
