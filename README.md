@@ -28,7 +28,7 @@ Create a `.env` file in the project root:
 ```
 DATABASE_URL=postgresql://postgres:password@localhost:5432/todoapp
 SECRET_KEY=your_secret_key
-SERVICE_PORT=8000
+SERVICE_PORT=8004
 ```
 Adjust values as needed.
 
@@ -57,6 +57,21 @@ The app will run on the port specified by `SERVICE_PORT` (default: 8000).
 - **Roles**: `user` (default) or `admin`.
   - Register as admin by including `"role": "admin"` in the registration payload.
   - Admins can manage all users and todos; users can only manage their own data.
+
+---
+---
+
+## 🔐 OAuth2PasswordBearer Login Flow
+
+This app uses FastAPI's `OAuth2PasswordBearer` for secure login:
+- **Token URL:** `/auth/token`
+- **Flow:** password (username = email, password = your password)
+
+**How to log in using Swagger UI:**
+1. Go to [http://0.0.0.0:8004][http://localhost:8000/docs]
+2. Click the "Authorize" button (top right).
+3. Enter your email as the username and your password.
+4. Click "Authorize" to obtain a Bearer token for testing protected endpoints.
 
 ---
 
@@ -135,3 +150,36 @@ The app will run on the port specified by `SERVICE_PORT` (default: 8000).
 
 ## 📫 Contact
 For questions or contributions, open an issue or pull request.
+
+
+
+## 🖼️ Screenshots
+
+You can add screenshots of request/response testing in Swagger UI to your README for better documentation.
+
+Example:
+```markdown
+## Example: Logging in via Swagger UI
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.19.20.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.19.36.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.09.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.23.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.37.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.02.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.14.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.26.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.52.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.02.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.15.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.29.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.43.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.57.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.08.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.21.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.33.png)!
+[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.51.png)!
+
+```
+
+
+---
