@@ -48,7 +48,7 @@ cd ..
 The app will run on the port specified by `SERVICE_PORT` (default: 8000).
 
 ### 7. Access the API Docs
-- Open [http://localhost:8000/docs](http://localhost:8000/docs) for Swagger UI.
+- Open (http://localhost:8000/docs)(http://localhost:8000/docs) for Swagger UI.
 
 ---
 
@@ -157,27 +157,43 @@ For questions or contributions, open an issue or pull request.
 
 You can add screenshots of request/response testing in Swagger UI to your README for better documentation.
 
-Example:
-markdown
-## Example: Logging in via Swagger UI
+
+##                      Logging in via Swagger UI
 
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.19.20.png)
+
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.19.36.png)
+##                      Endpoints
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.09.png)
+##                      Get own or logged in user details
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.23.png)
+##                      Get all user Details --Only admin can get
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.37.png)
+##                      Create a new user
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.02.png)
+##                      Update a user
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.14.png)
+##                      Delete a user
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.26.png)
+##                      List todos
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.52.png)
+##                      List todos Response
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.02.png)
+##                      Create a new todo
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.15.png)
+##                      Todo Response
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.29.png)
+##                      Update a todo
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.43.png)
+##                      Update todo response
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.57.png)
+##                      Delete a todo
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.08.png)
+##                      auth/login
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.21.png)
+##                      auth/regoster
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.33.png)
+##                      auth/token
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.51.png)
 
 ---
