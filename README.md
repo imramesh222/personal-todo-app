@@ -160,6 +160,8 @@ You can add screenshots of request/response testing in Swagger UI to your README
 Example:
 ```markdown
 ## Example: Logging in via Swagger UI
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.19.20.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.19.36.png)
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.09.png)
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.23.png)
 ![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.37.png)
