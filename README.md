@@ -161,23 +161,23 @@ Example:
 ```markdown
 ## Example: Logging in via Swagger UI
 [Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.19.20.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.19.36.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.09.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.23.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.37.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.02.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.14.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.26.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.52.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.02.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.15.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.29.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.43.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.57.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.08.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.21.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.33.png)!
-[Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.51.png)!
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.19.36.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.09.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.23.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.20.37.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.02.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.14.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.26.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.21.52.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.02.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.15.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.29.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.43.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.22.57.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.08.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.21.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.33.png)
+![Test Results](docs/screenshots/Screenshot%202025-07-10%20at%2017.23.51.png)
 
 ```
 
